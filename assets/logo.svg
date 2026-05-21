@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 180" role="img" aria-label="eMBriture">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e2a44"/>
+      <stop offset="100%" stop-color="#16213d"/>
+    </linearGradient>
+    <linearGradient id="flag" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+  </defs>
+  <path d="M80 6 L146 30 L146 100 C146 140 118 162 80 174 C42 162 14 140 14 100 L14 30 Z"
+        fill="url(#shieldGrad)" stroke="#16213d" stroke-width="2"/>
+  <path d="M40 30 L40 40 L52 40 L52 28 Z" fill="url(#flag)"/>
+  <g fill="#ffffff" font-family="Georgia, serif" font-weight="700">
+    <path d="M46 58 L46 128 L66 128 L66 102 L78 124 L86 124 L98 102 L98 128 L118 128 L118 58 L102 58 L82 92 L62 58 Z" fill="#f5f6f8"/>
+  </g>
+</svg>
